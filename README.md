@@ -25,4 +25,4 @@ uv run scripts/demo.py
 
 ## Author
 
-ZHULINGXUAN lingxuan.zhu@edu.em-lyon.com
+ZHU Lingxuan <lingxuan.zhu@edu.em-lyon.com>
